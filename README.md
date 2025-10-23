@@ -24,7 +24,6 @@ A Python-based machine learning application that filters irrelevant or "garbage"
 Follow these steps to install and run the project successfully.
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/phhvardhan/garbage_data_filtering.git
 cd garbage-data-filtering
 
 ### 2️⃣ Set Up the Environment
